@@ -60,3 +60,14 @@ body {
 [ng-click], [data-ng-click], [x-ng-click] {
     cursor: pointer;
 }
+
+path {
+  stroke: #000;
+  stroke-width: 1.5;
+  cursor: pointer;
+}
+
+text {
+  font: 11px sans-serif;
+  cursor: pointer;
+}
