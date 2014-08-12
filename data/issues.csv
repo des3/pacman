@@ -1,0 +1,115 @@
+Account Management,,,,88
+Accounting,,,,397
+Accounting,Authorizations,,,92
+Accounting,Company Policy,,,6
+Accounting,Company Policy,Default Rates,,35
+Accounting,Company Policy,Holiday Rates,,16
+Accounting,Company Policy,Overtime,,25
+Accounting,Company Policy,Travel Time,,12
+Accounting,Invoicing,,,314
+Accounting,Invoicing,CMS 1500,,8
+Accounting,Non-QB,,,15
+Accounting,Non-QB,Billing,,83
+Accounting,Non-QB,Billing,AR/Payments,41
+Accounting,Non-QB,Billing,Invoice,15
+Accounting,Non-QB,Payroll/Export to Excel,,158
+Accounting,Quickbooks Export,,,190
+Accounting,Quickbooks Export,Billing,,34
+Accounting,Quickbooks Export,Billing,AR/Payments,43
+Accounting,Quickbooks Export,Billing,Invoice,15
+Accounting,Quickbooks Export,Payroll,,45
+Accounting,Quickbooks Export,Setup,,59
+Accounting,Quickbooks Online,,,25
+Accounting,Quickbooks Online,Billing,,3
+Accounting,Quickbooks Online,Payroll,,4
+Accounting,Quickbooks Online,Setup,,4
+Admin,,,,299
+Admin,Access,,,175
+Admin,Custom Fields,,,8
+Admin,Custom Fields,Can Do,,1
+Admin,Password Reset,,,24
+Admin,Settings,,,63
+Agency Subscription,,,,76
+Agency Subscription,Billing Change,,,65
+Agency Subscription,ClearCare CM (iPad),,,1
+Agency Subscription,Pricing,,,9
+Background Checks,,,,3
+Caregiver,,,,64
+Caregiver,Activity,,,32
+Caregiver,Applicants,,,32
+Caregiver,Background & Certification ,,,11
+Caregiver,Care Manager,,,2
+Caregiver,Clocking In and Out,,,87
+Caregiver,Files,,,9
+Caregiver,Online Application,,,24
+Caregiver,Referral Sources,,,18
+Caregiver,Shift Calendar,,,30
+ClearCare Infrastructure,,,,95
+ClearCare Infrastructure,Computing,,,1
+ClearCare Infrastructure,E-Signatures,,,8
+ClearCare Infrastructure,Navigation,,,4
+ClearCare Infrastructure,People Search,,,7
+ClearCare Infrastructure,Speed,,,17
+ClearCare Infrastructure,Technical Difficulties,,,30
+ClearCare Infrastructure,Telephony,,,386
+Client,,,,38
+Client,Activity,,,22
+Client,Assessment ,,,51
+Client,Contacts,,,11
+Client,Files,,,8
+Client,Initial Call Form ,,,5
+Client,Profile,,,21
+Client,Prospects ,,,16
+Client,Referral Sources,,,44
+Client,Shift Calendar,,,31
+Client,Visit Notes,,,10
+Dashboard,,,,14
+Dashboard,Admin Tasks,,,10
+Dashboard,Care Alerts,,,18
+Dashboard,Key Documents,,,8
+Dashboard,Live-View Daily,,,3
+Dashboard,Live-View Daily,Client,,4
+Dashboard,Live-View Weekly,,,2
+Dashboard,Live-View Weekly,Caregiver,,3
+Dashboard,Live-View Weekly,Client,,2
+Dashboard,Open Shifts,,,3
+Feature Requests,,,,68
+Feature Requests,Not Planned,,,24
+Feature Requests,Planned,,,19
+Internal Sales Support,,,,83
+KPI Report (Includes ACA),,,,3
+Messaging/Alerts,,,,85
+Messaging/Alerts,Email,,,104
+Messaging/Alerts,SMS,,,53
+Messaging/Alerts,Task Reminders,,,2
+Onboarding,,,,677
+Onboarding,Data Entry,,,28
+Onboarding,Note Import,,,1
+Onboarding,QB Import,,,2
+Onboarding,Training,,,11
+Other Topic(s),,,,339
+Other Topic(s),Activity Tags,,,22
+Other Topic(s),ClearCare Complete CM (iPad),,,5
+Other Topic(s),Deleting / duplicates,,,19
+Other Topic(s),Printing,,,21
+Other Topic(s),Profile Tags,,,16
+Portal,,,,1
+Portal,Caregiver,,,33
+Portal,Family Room,,,54
+Portal,Family Room, Client,,7
+Portal,Family Room,Client Contacts,,14
+QA,,,,11
+QA,Adjust Receivables,,,11
+QA,Change Record,,,6
+QA,Delete QB Connection,,,1
+QA,Deletion Request,,,10
+QA,Zendesk Fix,,,2
+Reports,,,,223
+Reports,Custom,,,158
+Scheduling,,,,154
+Scheduling,Care Finder,,,16
+Scheduling,Open Shifts,,,8
+Scheduling,Tasks,,,25
+Scheduling,Unavailability,,,9
+Survey,,,,2
+Wrong Number/Company,,,,31
