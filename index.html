@@ -13,16 +13,6 @@
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     -->
-
-    <script src="bower_components/angular/angular.min.js"></script>
-    <script src="bower_components/angular-resource/angular-resource.min.js"></script>
-    <script src="bower_components/angular-route/angular-route.min.js"></script>
-
-    <script src="bower_components/d3/d3.min.js"></script>
-
-    <script src="scripts/app.js"></script>
-    <script src="scripts/controllers.js"></script>
-
   </head>
   
   <body ng-app="pacmanApp">
@@ -39,7 +29,7 @@
           <li ng-class="{active: isActive('/metrics')}"><a ng-href="#/metrics">Metrics</a></li>
           <li ng-class="{active: isActive('/agents')}"><a ng-href="#/agents">Agents</a></li>
           <li ng-class="{active: isActive('/customers')}"><a ng-href="#/customers">Customers</a></li>
-          <li ng-class="{active: isActive('/forecast')}"><a ng-href="#/plan">Forecast</a></li>
+          <li ng-class="{active: isActive('/forecast')}"><a ng-href="#/forecast">Forecast</a></li>
           <li ng-class="{active: isActive('/plan')}"><a ng-href="#/plan">Plan</a></li>
         </ul>
       </div>
@@ -52,6 +42,16 @@
     </div>
 
 
-    <!-- Add Google Analytics -->
+    <!-- todo: Add Google Analytics -->
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers.js"></script>
+    <script src="scripts/directives.js"></script>
+
+    <script src="bower_components/d3/d3.js"></script>
+
 </body>
 </html>
