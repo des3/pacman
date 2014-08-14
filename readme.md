@@ -1,10 +1,12 @@
 
-### Deployed
-http://pacman-stage.herokuapp.com/
-git@heroku.com:pacman-stage.git
+### Deployed on GH pages
 
-- used buildpack at BUILDPACK_URL: https://github.com/meenie/heroku-buildpack-nodejs-grunt-bower
+http://des3.github.io/pacman
+
 
 ### Source control
-git@github.com:tdesikan/pacman.git
+
+git@github.com:des3/pacman.git
+
+
 
